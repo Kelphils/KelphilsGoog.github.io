@@ -10,5 +10,22 @@ nav a {
 }
 nav img {
     height: 20px;
-
+}
+main {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+input {
+    width: 80%;
+    padding: 1em;
+    border-radius: 30px;
+    border: 1px solid gray;
+}
+.btn_container {
+    margin-top: 1em;
+}
+.btn_container button {
+    padding: 0.5em;
+    border: none;
 }
